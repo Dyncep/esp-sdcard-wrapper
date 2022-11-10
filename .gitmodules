@@ -1,0 +1,9 @@
+[submodule "main/esp-idf-ssd1306"]
+	path = main/esp-idf-ssd1306
+	url = https://github.com/nopnop2002/esp-idf-ssd1306
+[submodule "main/submodules/esp-idf-ssd1306"]
+	path = main/submodules/esp-idf-ssd1306
+	url = https://github.com/nopnop2002/esp-idf-ssd1306
+[submodule "submodules/esp-idf-ssd1306"]
+	path = submodules/esp-idf-ssd1306
+	url = https://github.com/nopnop2002/esp-idf-ssd1306
